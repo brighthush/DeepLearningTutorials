@@ -410,4 +410,4 @@ def test_dA(learning_rate=0.1, training_epochs=15,
 
 
 if __name__ == '__main__':
-    test_dA()
+    test_dA(dataset='E:\\deeplearning\\code\\mnist.pkl.gz')
