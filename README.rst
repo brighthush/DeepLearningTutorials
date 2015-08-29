@@ -38,3 +38,5 @@ Build instructions
 ------------------
 
 To build the html version of the tutorials, install sphinx and run doc/Makefile
+
+test
